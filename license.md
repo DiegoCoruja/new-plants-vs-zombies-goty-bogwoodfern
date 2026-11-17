@@ -194,6 +194,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Plants vs. Zombies: GOTY · Updated 2026-11-15 · Shared under the MIT License*
+*Plants vs. Zombies: GOTY · Updated 2026-11-17 · Shared under the MIT License*
 
-<!-- last reviewed 2026-11-15 -->
+<!-- last reviewed 2026-11-17 -->
